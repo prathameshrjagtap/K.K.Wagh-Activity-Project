@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login</title>
+    <link rel="stylesheet" href="/assets/css/login.css">
+</head>
+<body>
+   <form action="index.html" method="post">
+            
+            <h1>Sign Up</h1>
+            
+            <fieldset>
+              
+              <legend><span class="number">1</span> Your basic info</legend>
+              
+              <label for="name">First Name:</label>
+              <input type="text" id="first-name" name="first_name">
+              <label for="name">Last Name:</label>
+              <input type="text" id="last-name" name="last_name">
+              
+              <label for="name">User Name:</label>
+              <input type="text" id="user-name" name="user_name">
+
+              <label for="mail">Email:</label>
+              <input type="email" id="mail" name="user_email">
+              
+              <label for="password">Password:</label>
+              <input type="password" id="password" name="user_password">
+              
+              <!-- <label>Age:</label>
+              <input type="radio" id="under_13" value="under_13" name="user_age"><label for="under_13" class="light">Under 13</label><br>
+              <input type="radio" id="over_13" value="over_13" name="user_age"><label for="over_13" class="light">13 or Older</label> -->
+            
+            </fieldset>
+            
+            <fieldset>
+              
+              <legend><span class="number">2</span> Your profile</legend>
+              
+              <!-- <label for="bio">Biography:</label>
+              <textarea id="bio" name="user_bio"></textarea> -->
+              
+              <label for="department">Department:</label>
+              <select id="department" name="user_dept">
+                <optgroup label="MCA">
+                  <option value="#">MCA</option>
+                </optgroup>
+                <optgroup label="Engineering">
+                  <option value="#">#</option>
+                  <option value="#">#</option>
+                  <option value="#">#</option>
+                </optgroup>
+                <optgroup label="Lorem">
+                  <option value="#">#</option>
+                  <option value="#">#</option>
+                </optgroup>
+              </select>
+              
+              <label for="job">Job role:</label>
+              <select id="job" name="user_job">
+                <optgroup label="Proffesor">
+                  <option value="#">#</option>
+                  <option value="#">#</option>
+                  <option value="#">#</option>
+                  <option value="#">#</option>
+                  <option value="#">#</option>
+                  <option value="#">#</option>
+                </optgroup>
+                <optgroup label="H.O.D">
+                  <option value="#">#</option>
+                  <option value="#">#</option>
+                  <option value="#">#</option>
+                </optgroup>
+                <optgroup label="Lorem">
+                  <option value="#">#</option>
+                  <option value="#">#</option>
+                </optgroup>
+              </select>
+
+              
+              <!-- <label>Department:</label>
+              <input type="checkbox" id="development" value="interest_development" name="user_interest"><label class="light" for="development">MCA</label><br>
+              <input type="checkbox" id="design" value="interest_design" name="user_interest"><label class="light" for="design">Engineering</label><br>
+              <input type="checkbox" id="business" value="interest_business" name="user_interest"><label class="light" for="business">Lorem</label> -->
+              
+            </fieldset>
+              
+            <button type="submit">Sign Up</button>
+            <div class="user-already">
+              <h4>Aleardy User</h4><a href="login.html">LOGIN</a>
+            </div>
+          </form>
+</body>
+<script src="/assets/js/login.js"></script>
+</html>

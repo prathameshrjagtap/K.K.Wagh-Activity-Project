@@ -1,0 +1,254 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html lang="en-US"  class="supernova"><head>
+<script>console.warn("Server Side Rendering => render-from ==> \n frontend");</script>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="alternate" type="application/json+oembed" href="https://www.jotform.com/oembed/?format=json&amp;url=https%3A%2F%2Fform.jotform.com%2F223334448078055" title="oEmbed Form">
+<link rel="alternate" type="text/xml+oembed" href="https://www.jotform.com/oembed/?format=xml&amp;url=https%3A%2F%2Fform.jotform.com%2F223334448078055" title="oEmbed Form">
+<meta property="og:title" content="Form1" >
+<meta property="og:url" content="https://form.jotform.com/223334448078055" >
+<meta property="og:description" content="Please click the link to complete this form." >
+<meta name="slack-app-id" content="AHNMASS8M">
+<link rel="shortcut icon" href="https://cdn.jotfor.ms/assets/img/favicons/favicon-2021.svg">
+<meta property="og:image" content="https://cdn.jotfor.ms/assets/img/favicons/favicon-2021.svg" />
+<link rel="canonical" href="https://form.jotform.com/223334448078055" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=2.0, user-scalable=1" />
+<meta name="HandheldFriendly" content="true" />
+<title>Form1</title>
+<style type="text/css">@media print{.form-section{display:inline!important}.form-pagebreak{display:none!important}.form-section-closed{height:auto!important}.page-section{position:initial!important}}</style>
+<link type="text/css" rel="stylesheet" href="https://cdn01.jotfor.ms/themes/CSS/5e6b428acc8c4e222d1beb91.css?themeRevisionID=63763808623532087895e4de"/>
+<link type="text/css" rel="stylesheet" href="https://cdn02.jotfor.ms/css/styles/payment/payment_styles.css?3.3.37614" />
+<link type="text/css" rel="stylesheet" href="https://cdn03.jotfor.ms/css/styles/payment/payment_feature.css?3.3.37614" />
+<script src="https://cdn01.jotfor.ms/static/prototype.forms.js?3.3.37614" type="text/javascript"></script>
+<script src="https://cdn02.jotfor.ms/static/jotform.forms.js?3.3.37614" type="text/javascript"></script>
+<script src="https://cdn03.jotfor.ms/js/vendor/jquery-1.8.0.min.js?v=3.3.37614" type="text/javascript"></script>
+<script defer src="https://cdn01.jotfor.ms/js/vendor/maskedinput.min.js?v=3.3.37614" type="text/javascript"></script>
+<script defer src="https://cdn02.jotfor.ms/js/vendor/jquery.maskedinput.min.js?v=3.3.37614" type="text/javascript"></script>
+<script src="https://cdn03.jotfor.ms/pdf-importer/static/js/form-patch.js?v=3.3.37614" type="text/javascript"></script>
+<script type="text/javascript">	JotForm.newDefaultTheme = true;
+	JotForm.extendsNewTheme = false;
+	JotForm.singleProduct = false;
+	JotForm.newPaymentUIForNewCreatedForms = true;
+	JotForm.newPaymentUI = true;
+	JotForm.importedPDF = "https://www.jotform.com/uploads/prathameshjagtap07/form_files/pfc_638772d2d10d1_Form1.pdf?nc=1";
+	JotForm.importedPDFSettings = {"isConnected":"Yes","enableThumbnail":"Yes","hasPreviewButton":"Yes","startButtonText":"Start Filling","formType":"legacyForm","welcomeThumbnail":""};
+	JotForm.clearFieldOnHide="disable";
+	JotForm.submitError="jumpToFirstError";
+
+	JotForm.init(function(){
+	/*INIT-START*/
+
+ JotForm.calendarMonths = ["January","February","March","April","May","June","July","August","September","October","November","December"];
+ JotForm.calendarDays = ["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday"];
+ JotForm.calendarOther = {"today":"Today"};
+ var languageOptions = document.querySelectorAll('#langList li'); 
+ for(var langIndex = 0; langIndex < languageOptions.length; langIndex++) { 
+   languageOptions[langIndex].on('click', function(e) { setTimeout(function(){ JotForm.setCalendar("1", false, {"days":{"monday":true,"tuesday":true,"wednesday":true,"thursday":true,"friday":true,"saturday":true,"sunday":true},"future":true,"past":true,"custom":false,"ranges":false,"start":"","end":""}); }, 0); });
+ } 
+ JotForm.onTranslationsFetch(function() { JotForm.setCalendar("1", false, {"days":{"monday":true,"tuesday":true,"wednesday":true,"thursday":true,"friday":true,"saturday":true,"sunday":true},"future":true,"past":true,"custom":false,"ranges":false,"start":"","end":""}); });
+if (window.JotForm && JotForm.accessible) $('input_3').setAttribute('tabindex',0);
+if (window.JotForm && JotForm.accessible) $('input_4').setAttribute('tabindex',0);
+if (window.JotForm && JotForm.accessible) $('input_5').setAttribute('tabindex',0);
+if (window.JotForm && JotForm.accessible) $('input_6').setAttribute('tabindex',0);
+if (window.JotForm && JotForm.accessible) $('input_7').setAttribute('tabindex',0);
+if (window.JotForm && JotForm.accessible) $('input_8').setAttribute('tabindex',0);
+if (window.JotForm && JotForm.accessible) $('input_9').setAttribute('tabindex',0);
+if (window.JotForm && JotForm.accessible) $('input_10').setAttribute('tabindex',0);
+if (window.JotForm && JotForm.accessible) $('input_11').setAttribute('tabindex',0);
+if (window.JotForm && JotForm.accessible) $('input_14').setAttribute('tabindex',0);
+if (window.JotForm && JotForm.accessible) $('input_15').setAttribute('tabindex',0);
+if (window.JotForm && JotForm.accessible) $('input_16').setAttribute('tabindex',0);
+      JotForm.alterTexts(undefined);
+	/*INIT-END*/
+	});
+
+   JotForm.prepareCalculationsOnTheFly([null,{"description":"","name":"date","qid":"1","text":"Date","type":"control_datetime"},{"name":"ltpgtltspanStylecolor","qid":"2","text":"The Principal K. K. Wagh IEER,Subject: Pre-sanction of remuneration for expert lecture. Respected Sir,Engineering is organizing an expert talk by","type":"control_text"},{"description":"","name":"detailsOf","qid":"3","subLabel":"","text":"Details of remuneration of expert","type":"control_textbox"},{"description":"","name":"daydate","qid":"4","subLabel":"","text":"Day\u002FDate","type":"control_textarea"},{"description":"","name":"honorarium","qid":"5","subLabel":"","text":"Honorarium","type":"control_textbox"},{"description":"","name":"bankAccount","qid":"6","subLabel":"","text":"Bank account Details of expert","type":"control_textbox"},{"description":"","name":"nameOf","qid":"7","subLabel":"","text":"Name of account holder","type":"control_textbox"},{"description":"","name":"nameOf8","qid":"8","subLabel":"","text":"Name of Bank","type":"control_textbox"},{"description":"","name":"accountNo","qid":"9","subLabel":"","text":"Account No. ","type":"control_textbox"},{"description":"","name":"micrCode","qid":"10","subLabel":"","text":"MICR Code","type":"control_textbox"},{"description":"","name":"ifscCode","qid":"11","subLabel":"","text":"IFSC Code","type":"control_textbox"},{"name":"ltpgtltspanStylecolor12","qid":"12","text":"You are kindly requested to sanction the amount.","type":"control_text"},{"name":"submit","qid":"13","text":"Submit","type":"control_button"},{"description":"","name":"typeA","qid":"14","subLabel":"","text":"Type a question","type":"control_textarea"},{"description":"","name":"typeA15","qid":"15","subLabel":"","text":"Type a question","type":"control_textarea"},{"description":"","name":"typeA16","qid":"16","subLabel":"","text":"Type a question","type":"control_textarea"}]);
+   setTimeout(function() {
+JotForm.paymentExtrasOnTheFly([null,{"description":"","name":"date","qid":"1","text":"Date","type":"control_datetime"},{"name":"ltpgtltspanStylecolor","qid":"2","text":"The Principal K. K. Wagh IEER,Subject: Pre-sanction of remuneration for expert lecture. Respected Sir,Engineering is organizing an expert talk by","type":"control_text"},{"description":"","name":"detailsOf","qid":"3","subLabel":"","text":"Details of remuneration of expert","type":"control_textbox"},{"description":"","name":"daydate","qid":"4","subLabel":"","text":"Day\u002FDate","type":"control_textarea"},{"description":"","name":"honorarium","qid":"5","subLabel":"","text":"Honorarium","type":"control_textbox"},{"description":"","name":"bankAccount","qid":"6","subLabel":"","text":"Bank account Details of expert","type":"control_textbox"},{"description":"","name":"nameOf","qid":"7","subLabel":"","text":"Name of account holder","type":"control_textbox"},{"description":"","name":"nameOf8","qid":"8","subLabel":"","text":"Name of Bank","type":"control_textbox"},{"description":"","name":"accountNo","qid":"9","subLabel":"","text":"Account No. ","type":"control_textbox"},{"description":"","name":"micrCode","qid":"10","subLabel":"","text":"MICR Code","type":"control_textbox"},{"description":"","name":"ifscCode","qid":"11","subLabel":"","text":"IFSC Code","type":"control_textbox"},{"name":"ltpgtltspanStylecolor12","qid":"12","text":"You are kindly requested to sanction the amount.","type":"control_text"},{"name":"submit","qid":"13","text":"Submit","type":"control_button"},{"description":"","name":"typeA","qid":"14","subLabel":"","text":"Type a question","type":"control_textarea"},{"description":"","name":"typeA15","qid":"15","subLabel":"","text":"Type a question","type":"control_textarea"},{"description":"","name":"typeA16","qid":"16","subLabel":"","text":"Type a question","type":"control_textarea"}]);}, 20); 
+</script>
+</head>
+<body>
+<form class="jotform-form" action="https://submit.jotform.com/submit/223334448078055/" method="post" name="form_223334448078055" id="223334448078055" accept-charset="utf-8" autocomplete="on">
+  <input type="hidden" name="formID" value="223334448078055" />
+  <input type="hidden" id="JWTContainer" value="" />
+  <input type="hidden" id="cardinalOrderNumber" value="" />
+  <div role="main" class="form-all">
+    <style>
+      .form-all:before { background: none;}
+    </style>
+    <ul class="form-section page-section">
+      <li class="form-line" data-type="control_datetime" id="id_1">
+        <label class="form-label form-label-top form-label-auto" id="label_1" for="lite_mode_1"> Date </label>
+        <div id="cid_1" class="form-input-wide" data-layout="half">
+          <div data-wrapper-react="true">
+            <div style="display:none">
+              <span class="form-sub-label-container" style="vertical-align:top">
+                <input type="tel" class="form-textbox validate[limitDate]" id="month_1" name="q1_date[month]" size="2" data-maxlength="2" data-age="" maxLength="2" value="" autoComplete="section-input_1 off" aria-labelledby="label_1 sublabel_1_month" />
+                <span class="date-separate" aria-hidden="true">
+                   /
+                </span>
+                <label class="form-sub-label" for="month_1" id="sublabel_1_month" style="min-height:13px" aria-hidden="false"> Month </label>
+              </span>
+              <span class="form-sub-label-container" style="vertical-align:top">
+                <input type="tel" class="form-textbox validate[limitDate]" id="day_1" name="q1_date[day]" size="2" data-maxlength="2" data-age="" maxLength="2" value="" autoComplete="section-input_1 off" aria-labelledby="label_1 sublabel_1_day" />
+                <span class="date-separate" aria-hidden="true">
+                   /
+                </span>
+                <label class="form-sub-label" for="day_1" id="sublabel_1_day" style="min-height:13px" aria-hidden="false"> Day </label>
+              </span>
+              <span class="form-sub-label-container" style="vertical-align:top">
+                <input type="tel" class="form-textbox validate[limitDate]" id="year_1" name="q1_date[year]" size="4" data-maxlength="4" data-age="" maxLength="4" value="" autoComplete="section-input_1 off" aria-labelledby="label_1 sublabel_1_year" />
+                <label class="form-sub-label" for="year_1" id="sublabel_1_year" style="min-height:13px" aria-hidden="false"> Year </label>
+              </span>
+            </div>
+            <span class="form-sub-label-container" style="vertical-align:top">
+              <input type="text" class="form-textbox validate[limitDate, validateLiteDate]" id="lite_mode_1" size="12" data-maxlength="12" maxLength="12" data-age="" value="" data-format="mmddyyyy" data-seperator="/" placeholder="MM/DD/YYYY" autoComplete="section-input_1 off" aria-labelledby="label_1 sublabel_1_litemode" />
+              <img class=" newDefaultTheme-dateIcon icon-liteMode" alt="Pick a Date" id="input_1_pick" src="https://cdn.jotfor.ms/images/calendar.png" data-component="datetime" aria-hidden="true" data-allow-time="No" data-version="v2" />
+              <label class="form-sub-label" for="lite_mode_1" id="sublabel_1_litemode" style="min-height:13px" aria-hidden="false"> Date </label>
+            </span>
+          </div>
+        </div>
+      </li>
+      <li class="form-line" data-type="control_text" id="id_2">
+        <div id="cid_2" class="form-input-wide" data-layout="full">
+          <div id="text_2" class="form-html" data-component="text" tabindex="0">
+            <p><span style="color: #000000;">The Principal</span> <span style="color: #000000;">K. K. Wagh IEER,</span></p>
+            <p><span style="color: #000000;">Subject: Pre-sanction of remuneration for expert lecture.</span> <span style="color: #000000;">Respected Sir,</span></p>
+            <p><span style="color: #000000;">Engineering is organizing an expert talk</span> <span style="color: #000000;">by</span></p>
+          </div>
+        </div>
+      </li>
+      <li class="form-line" data-type="control_textbox" id="id_3">
+        <label class="form-label form-label-top form-label-auto" id="label_3" for="input_3"> Details of remuneration of expert </label>
+        <div id="cid_3" class="form-input-wide" data-layout="half">
+          <input type="text" id="input_3" name="q3_detailsOf" data-type="input-textbox" class="form-textbox" data-defaultvalue="" style="width:20px" size="20" value="" data-component="textbox" aria-labelledby="label_3" />
+        </div>
+      </li>
+      <li class="form-line" data-type="control_textarea" id="id_4">
+        <label class="form-label form-label-top form-label-auto" id="label_4" for="input_4"> Day/Date </label>
+        <div id="cid_4" class="form-input-wide" data-layout="full">
+          <textarea id="input_4" class="form-textarea" name="q4_daydate" style="width:40px;height:6px" data-component="textarea" aria-labelledby="label_4"></textarea>
+        </div>
+      </li>
+      <li class="form-line" data-type="control_textbox" id="id_5">
+        <label class="form-label form-label-top form-label-auto" id="label_5" for="input_5"> Honorarium </label>
+        <div id="cid_5" class="form-input-wide" data-layout="half">
+          <input type="text" id="input_5" name="q5_honorarium" data-type="input-textbox" class="form-textbox" data-defaultvalue="" style="width:20px" size="20" value="" data-component="textbox" aria-labelledby="label_5" />
+        </div>
+      </li>
+      <li class="form-line" data-type="control_textbox" id="id_6">
+        <label class="form-label form-label-top form-label-auto" id="label_6" for="input_6"> Bank account Details of expert </label>
+        <div id="cid_6" class="form-input-wide" data-layout="half">
+          <input type="text" id="input_6" name="q6_bankAccount" data-type="input-textbox" class="form-textbox" data-defaultvalue="" style="width:20px" size="20" value="" data-component="textbox" aria-labelledby="label_6" />
+        </div>
+      </li>
+      <li class="form-line" data-type="control_textbox" id="id_7">
+        <label class="form-label form-label-top form-label-auto" id="label_7" for="input_7"> Name of account holder </label>
+        <div id="cid_7" class="form-input-wide" data-layout="half">
+          <input type="text" id="input_7" name="q7_nameOf" data-type="input-textbox" class="form-textbox" data-defaultvalue="" style="width:20px" size="20" value="" data-component="textbox" aria-labelledby="label_7" />
+        </div>
+      </li>
+      <li class="form-line" data-type="control_textbox" id="id_8">
+        <label class="form-label form-label-top form-label-auto" id="label_8" for="input_8"> Name of Bank </label>
+        <div id="cid_8" class="form-input-wide" data-layout="half">
+          <input type="text" id="input_8" name="q8_nameOf8" data-type="input-textbox" class="form-textbox" data-defaultvalue="" style="width:20px" size="20" value="" data-component="textbox" aria-labelledby="label_8" />
+        </div>
+      </li>
+      <li class="form-line" data-type="control_textbox" id="id_9">
+        <label class="form-label form-label-top form-label-auto" id="label_9" for="input_9"> Account No. </label>
+        <div id="cid_9" class="form-input-wide" data-layout="half">
+          <input type="text" id="input_9" name="q9_accountNo" data-type="input-textbox" class="form-textbox" data-defaultvalue="" style="width:20px" size="20" value="" data-component="textbox" aria-labelledby="label_9" />
+        </div>
+      </li>
+      <li class="form-line" data-type="control_textbox" id="id_10">
+        <label class="form-label form-label-top form-label-auto" id="label_10" for="input_10"> MICR Code </label>
+        <div id="cid_10" class="form-input-wide" data-layout="half">
+          <input type="text" id="input_10" name="q10_micrCode" data-type="input-textbox" class="form-textbox" data-defaultvalue="" style="width:20px" size="20" value="" data-component="textbox" aria-labelledby="label_10" />
+        </div>
+      </li>
+      <li class="form-line" data-type="control_textbox" id="id_11">
+        <label class="form-label form-label-top form-label-auto" id="label_11" for="input_11"> IFSC Code </label>
+        <div id="cid_11" class="form-input-wide" data-layout="half">
+          <input type="text" id="input_11" name="q11_ifscCode" data-type="input-textbox" class="form-textbox" data-defaultvalue="" style="width:20px" size="20" value="" data-component="textbox" aria-labelledby="label_11" />
+        </div>
+      </li>
+      <li class="form-line" data-type="control_text" id="id_12">
+        <div id="cid_12" class="form-input-wide" data-layout="full">
+          <div id="text_12" class="form-html" data-component="text" tabindex="0">
+            <p><span style="color: #000000;">You are kindly requested to sanction the amount.</span></p>
+          </div>
+        </div>
+      </li>
+      <li class="form-line" data-type="control_textarea" id="id_14">
+        <label class="form-label form-label-top form-label-auto" id="label_14" for="input_14"> Type a question </label>
+        <div id="cid_14" class="form-input-wide" data-layout="full">
+          <textarea id="input_14" class="form-textarea" name="q14_typeA" style="width:648px;height:163px" data-component="textarea" aria-labelledby="label_14"></textarea>
+        </div>
+      </li>
+      <li class="form-line" data-type="control_textarea" id="id_15">
+        <label class="form-label form-label-top form-label-auto" id="label_15" for="input_15"> Type a question </label>
+        <div id="cid_15" class="form-input-wide" data-layout="full">
+          <textarea id="input_15" class="form-textarea" name="q15_typeA15" style="width:648px;height:163px" data-component="textarea" aria-labelledby="label_15"></textarea>
+        </div>
+      </li>
+      <li class="form-line" data-type="control_textarea" id="id_16">
+        <label class="form-label form-label-top form-label-auto" id="label_16" for="input_16"> Type a question </label>
+        <div id="cid_16" class="form-input-wide" data-layout="full">
+          <textarea id="input_16" class="form-textarea" name="q16_typeA16" style="width:648px;height:163px" data-component="textarea" aria-labelledby="label_16"></textarea>
+        </div>
+      </li>
+      <li class="form-line" data-type="control_button" id="id_13">
+        <div id="cid_13" class="form-input-wide" data-layout="full">
+          <div data-align="auto" class="form-buttons-wrapper form-buttons-auto   jsTest-button-wrapperField">
+            <button id="input_preview_13" type="button" class="form-submit-preview jf-form-buttons" data-component="button">
+              <img src="https://cdn.jotfor.ms/assets/img/theme-assets/5ca4930530899c64ff77cfa1/previewPDF-icon.svg" />
+              <span id="span_preview_13" class="span_preview">
+                Preview PDF
+              </span>
+            </button>
+            <span>
+               
+            </span>
+            <button id="input_13" type="submit" class="form-submit-button submit-button jf-form-buttons jsTest-submitField" data-component="button" data-content="">
+              Submit
+            </button>
+          </div>
+        </div>
+      </li>
+      <li style="display:none">
+        Should be Empty:
+        <input type="text" name="website" value="" />
+      </li>
+    </ul>
+  </div>
+  <script>
+  JotForm.showJotFormPowered = "new_footer";
+  </script>
+  <script>
+  JotForm.poweredByText = "Powered by Jotform";
+  </script>
+  <input type="hidden" class="simple_spc" id="simple_spc" name="simple_spc" value="223334448078055" />
+  <script type="text/javascript">
+  var all_spc = document.querySelectorAll("form[id='223334448078055'] .si" + "mple" + "_spc");
+for (var i = 0; i < all_spc.length; i++)
+{
+  all_spc[i].value = "223334448078055-223334448078055";
+}
+  </script>
+  <!-- <div class="formFooter-heightMask">
+  </div>
+   <div class="formFooter f6 branding21">
+    <div class="formFooter-wrapper formFooter-leftSide">
+      <a href="https://www.jotform.com/?utm_source=formfooter&utm_medium=banner&utm_term=223334448078055&utm_content=jotform_logo&utm_campaign=powered_by_jotform_le" target="_blank" class="formFooter-logoLink"><img class="formFooter-logo" src="https://cdn.jotfor.ms/assets/img/logo2021/jotform-logo-white.svg" alt="Jotform Logo" style="height: 44px;"></a>
+    </div> 
+    <div class="formFooter-wrapper formFooter-rightSide">
+      <span class="formFooter-text">
+        Now create your own Jotform - It's free!
+      </span>
+      <a class="formFooter-button" href="https://www.jotform.com/?utm_source=formfooter&utm_medium=banner&utm_term=223334448078055&utm_content=jotform_button&utm_campaign=powered_by_jotform_le" target="_blank">Create your own Jotform</a>
+    </div>
+  </div> -->
+</form></body>
+</html>
+<script type="text/javascript">JotForm.ownerView=true;</script><script src="https://cdn.jotfor.ms//js/vendor/smoothscroll.min.js?v=3.3.37614"></script>
+<script src="https://cdn.jotfor.ms//js/errorNavigation.js?v=3.3.37614"></script>
